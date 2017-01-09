@@ -15,12 +15,12 @@ Feature Comparison
 |[dext](#dext)          |   |   |×  |✔  |
 |[cerebro](#cerebro)    |   |   |×  |✔  |
 |[Alfred](#alfred)      |✔  |✔  |×  |×  |
-|[Cortana](#cortana)    |×  |✔  |×  |×  |
+|[Cortana](#cortana)    |×  |×  |×  |×  |
 |[Spotlight](#spotlight)|×  |✔  |×  |×  |
 
 ### Features
 1. Pass-thru search parameters to any url
-2. Touch typing buffered
+2. Touch typing buffered, deterministic result
 3. Multi-platform
 4. Open source
 
