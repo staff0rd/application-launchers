@@ -1,6 +1,29 @@
 # Application Launchers
 A list of alt-space (or similar) application launchers
 
+* [Feature Comparison](#feature-comparison)
+* [Open source launchers](#open-source)
+* [Closed source launchers](#closed-source)
+
+Feature Comparison
+==================
+
+|                       |1  |2  |3  |4  |
+|---                    |---|---|---|---|
+|[hain](#hain)          |✔  |×  |✔  |✔  |  
+|[Wox](#wox)            |✔  |✔  |×  |✔  |
+|[dext](#dext)          |   |   |×  |✔  |
+|[cerebro](#cerebro)    |   |   |×  |✔  |
+|[Alfred](#alfred)      |✔  |✔  |×  |×  |
+|[Cortana](#cortana)    |×  |✔  |×  |×  |
+|[Spotlight](#spotlight)|×  |✔  |×  |×  |
+
+### Features
+1. Pass-thru search parameters to any url
+2. Touch typing buffered
+3. Multi-platform
+4. Open source
+
 Open source
 ===========
 
