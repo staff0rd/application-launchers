@@ -19,10 +19,11 @@ Feature Comparison
 |[Spotlight](#spotlight)|×  |✔  |×  |×  |
 
 ### Features
-1. Pass-thru search parameters to any url
+1. Pass-thru search parameters to configured urls
 2. Touch typing buffered, deterministic result
 3. Multi-platform
 4. Open source
+5. Detect and open any url
 
 Open source
 ===========
