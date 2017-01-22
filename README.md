@@ -10,6 +10,7 @@ Feature Comparison
 
 |                       |1  |2  |3  |4  |
 |---                    |---|---|---|---|
+|[zazu](#zazu)          |   |   |   |   |
 |[hain](#hain)          |✔  |×  |✔  |✔  |  
 |[Wox](#wox)            |✔  |✔  |×  |✔  |
 |[dext](#dext)          |   |   |×  |✔  |
@@ -27,6 +28,15 @@ Feature Comparison
 
 Open source
 ===========
+
+zazu
+----
+Multi-platform (Electron, Javascript)
+
+https://github.com/tinytacoteam/zazu
+
+[![GitHub contributors](https://img.shields.io/github/contributors/tinytacoteam/zazu.svg)](https://github.com/tinytacoteam/zazu)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/tinytacoteam/zazu.svg)](https://github.com/tinytacoteam/zazu)
 
 hain
 ----
