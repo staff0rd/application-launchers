@@ -10,11 +10,12 @@ Feature Comparison
 
 |                       |1  |2  |3  |4  |
 |---                    |---|---|---|---|
-|[zazu](#zazu)          |   |   |   |   |
+|[ulauncher](#ulauncher)| ? | ? | ? | ? |
+|[zazu](#zazu)          | ? | ? | ? | ? |
 |[hain](#hain)          |✔  |×  |✔  |✔  |  
 |[Wox](#wox)            |✔  |✔  |×  |✔  |
-|[dext](#dext)          |   |   |×  |✔  |
-|[cerebro](#cerebro)    |   |   |×  |✔  |
+|[dext](#dext)          | ? | ? |×  |✔  |
+|[cerebro](#cerebro)    | ? | ? |×  |✔  |
 |[Alfred](#alfred)      |✔  |✔  |×  |×  |
 |[Cortana](#cortana)    |×  |×  |×  |×  |
 |[Spotlight](#spotlight)|×  |✔  |×  |×  |
@@ -28,6 +29,16 @@ Feature Comparison
 
 Open source
 ===========
+
+Ulauncher
+---------
+Linux (Python, GTK)
+
+https://ulauncher.io/
+
+[![GitHub contributors](https://img.shields.io/github/contributors/Ulauncher/Ulauncher.svg)](https://github.com/Ulauncher/Ulauncher)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Ulauncher/Ulauncher.svg)](https://github.com/Ulauncher/Ulauncher)
+
 
 zazu
 ----
