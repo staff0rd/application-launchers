@@ -10,6 +10,7 @@ Feature Comparison
 
 |                       |1  |2  |3  |4  |
 |---                    |---|---|---|---|
+|[Albert](#ulauncher)   | ? | ? | × | ✔ |
 |[Ulauncher](#ulauncher)| ? | ? | × | ✔ |
 |[zazu](#zazu)          | ? | ? | ? | ? |
 |[hain](#hain)          |✔  |×  |✔  |✔  |  
@@ -30,6 +31,15 @@ Feature Comparison
 Open source
 ===========
 
+Albert
+------
+Linux (C++, Qt)
+
+https://albertlauncher.github.io/
+
+[![GitHub contributors](https://img.shields.io/github/contributors/albertlauncher/albert.svg)](https://github.com/albertlauncher/albert)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/albertlauncher/albert.svg)](https://github.com/albertlauncher/albert)
+
 Ulauncher
 ---------
 Linux (Python, GTK)
@@ -38,7 +48,6 @@ https://ulauncher.io/
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Ulauncher/Ulauncher.svg)](https://github.com/Ulauncher/Ulauncher)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Ulauncher/Ulauncher.svg)](https://github.com/Ulauncher/Ulauncher)
-
 
 zazu
 ----
