@@ -12,7 +12,7 @@ Feature Comparison
 |---                    |---|---|---|---|
 |[Albert](#ulauncher)   | ? | ? | × | ✔ |
 |[Ulauncher](#ulauncher)| ? | ? | × | ✔ |
-|[zazu](#zazu)          | ? | ? | ? | ? |
+|[zazu](#zazu)          | ? | ? | ✔ | ✔ |
 |[hain](#hain)          |✔  |×  |✔  |✔  |  
 |[Wox](#wox)            |✔  |✔  |×  |✔  |
 |[dext](#dext)          | ? | ? |×  |✔  |
