@@ -10,7 +10,7 @@ Feature Comparison
 
 |                       |1  |2  |3  |4  |
 |---                    |---|---|---|---|
-|[ulauncher](#ulauncher)| ? | ? | ? | ? |
+|[Ulauncher](#ulauncher)| ? | ? | × | ✔ |
 |[zazu](#zazu)          | ? | ? | ? | ? |
 |[hain](#hain)          |✔  |×  |✔  |✔  |  
 |[Wox](#wox)            |✔  |✔  |×  |✔  |
