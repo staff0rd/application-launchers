@@ -1,38 +1,39 @@
 # Application Launchers
+
 A list of alt-space (or similar) application launchers
 
-* [Feature Comparison](#feature-comparison)
-* [Open source launchers](#open-source)
-* [Closed source launchers](#closed-source)
+- [Feature Comparison](#feature-comparison)
+- [Open source launchers](#open-source)
+- [Closed source launchers](#closed-source)
 
-Feature Comparison
-==================
+# Feature Comparison
 
-|                       |1  |2  |3  |4  |
-|---                    |---|---|---|---|
-|[Albert](#ulauncher)   | ? | ? | × | ✔ |
-|[Ulauncher](#ulauncher)| ? | ? | × | ✔ |
-|[zazu](#zazu)          | ? | ? | ✔ | ✔ |
-|[hain](#hain)          |✔  |×  |✔  |✔  |  
-|[Wox](#wox)            |✔  |✔  |×  |✔  |
-|[dext](#dext)          | ? | ? |×  |✔  |
-|[cerebro](#cerebro)    | ? | ? |×  |✔  |
-|[Alfred](#alfred)      |✔  |✔  |×  |×  |
-|[Cortana](#cortana)    |×  |×  |×  |×  |
-|[Spotlight](#spotlight)|×  |✔  |×  |×  |
+|                             | 1   | 2   | 3   | 4   |
+| --------------------------- | --- | --- | --- | --- |
+| [Albert](#ulauncher)        | ?   | ?   | ×   | ✔   |
+| [Ulauncher](#ulauncher)     | ?   | ?   | ×   | ✔   |
+| [zazu](#zazu)               | ?   | ?   | ✔   | ✔   |
+| [hain](#hain)               | ✔   | ×   | ✔   | ✔   |
+| [Wox](#wox)                 | ✔   | ✔   | ×   | ✔   |
+| [dext](#dext)               | ?   | ?   | ×   | ✔   |
+| [cerebro](#cerebro)         | ?   | ?   | ×   | ✔   |
+| [Alfred](#alfred)           | ✔   | ✔   | ×   | ×   |
+| [Cortana](#cortana)         | ×   | ×   | ×   | ×   |
+| [Spotlight](#spotlight)     | ×   | ✔   | ×   | ×   |
+| [Executor](#executor)       | ✔   | ✔   | ×   | ×   |
+| [Power Launcher](#executor) | ?   | ✔   | ×   | ✔   |
 
 ### Features
+
 1. Pass-thru search parameters to configured urls
 2. Touch typing buffered, deterministic result
 3. Multi-platform
 4. Open source
-5. Detect and open any url
 
-Open source
-===========
+# Open source
 
-Albert
-------
+## Albert
+
 Linux (C++, Qt)
 
 https://albertlauncher.github.io/
@@ -40,8 +41,8 @@ https://albertlauncher.github.io/
 [![GitHub contributors](https://img.shields.io/github/contributors/albertlauncher/albert.svg)](https://github.com/albertlauncher/albert)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/albertlauncher/albert.svg)](https://github.com/albertlauncher/albert)
 
-Ulauncher
----------
+## Ulauncher
+
 Linux (Python, GTK)
 
 https://ulauncher.io/
@@ -49,8 +50,8 @@ https://ulauncher.io/
 [![GitHub contributors](https://img.shields.io/github/contributors/Ulauncher/Ulauncher.svg)](https://github.com/Ulauncher/Ulauncher)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Ulauncher/Ulauncher.svg)](https://github.com/Ulauncher/Ulauncher)
 
-zazu
-----
+## zazu
+
 Multi-platform (Electron, Javascript)
 
 https://github.com/tinytacoteam/zazu
@@ -58,8 +59,8 @@ https://github.com/tinytacoteam/zazu
 [![GitHub contributors](https://img.shields.io/github/contributors/tinytacoteam/zazu.svg)](https://github.com/tinytacoteam/zazu)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/tinytacoteam/zazu.svg)](https://github.com/tinytacoteam/zazu)
 
-hain
-----
+## hain
+
 Multi-platform (Electron, Javascript)
 
 https://github.com/appetizermonster/hain
@@ -67,8 +68,8 @@ https://github.com/appetizermonster/hain
 [![GitHub contributors](https://img.shields.io/github/contributors/appetizermonster/hain.svg)](https://github.com/appetizermonster/hain)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/appetizermonster/hain.svg)](https://github.com/appetizermonster/hain)
 
-Wox
----
+## Wox
+
 Windows (WPF, C#)
 
 https://github.com/Wox-launcher/Wox
@@ -76,8 +77,8 @@ https://github.com/Wox-launcher/Wox
 [![GitHub contributors](https://img.shields.io/github/contributors/Wox-launcher/Wox.svg)](https://github.com/Wox-launcher/Wox)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Wox-launcher/Wox.svg)](https://github.com/Wox-launcher/Wox)
 
-dext
-----
+## dext
+
 MACOSX (Electron, Javascript)
 
 https://github.com/vutran/dext
@@ -85,8 +86,8 @@ https://github.com/vutran/dext
 [![GitHub contributors](https://img.shields.io/github/contributors/vutran/dext.svg)](https://github.com/vutran/dext)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/vutran/dext.svg)](https://github.com/vutran/dext)
 
-cerebro
--------
+## cerebro
+
 MACOSX (Electron, Javascript)
 
 https://github.com/KELiON/cerebro
@@ -94,32 +95,38 @@ https://github.com/KELiON/cerebro
 [![GitHub contributors](https://img.shields.io/github/contributors/KELiON/cerebro.svg)](https://github.com/KELiON/cerebro)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/KELiON/cerebro.svg)](https://github.com/KELiON/cerebro)
 
-Launchy
--------
+## Launchy
+
 Windows (WinForms, C#, No longer in development)
 
 http://www.launchy.net
 
-Closed source
-=============
+# Closed source
 
-Alfred
-------
+## Alfred
+
 MACOS, Free, with paid "Powerpack" option
 
 https://www.alfredapp.com/
 
-Spotlight
----------
+## Spotlight
+
 MACOS, Native
 
-Cortana
--------
-Windows 10, Native
-* Search results locked to bing.com
+## Cortana
 
-Executor
---------
-Windows, Free, No longer in development
+Windows 10, Native
+
+- Search results locked to bing.com
+
+## Executor
+
+Windows, Free
 
 http://executor.dk
+
+## Power Launcher
+
+Windows, Free
+
+https://github.com/microsoft/PowerToys
