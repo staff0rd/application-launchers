@@ -22,6 +22,7 @@ A list of alt-space (or similar) application launchers
 | [Spotlight](#spotlight)     | ×   | ✔   | ×   | ×   |
 | [Executor](#executor)       | ✔   | ✔   | ×   | ×   |
 | [Power Launcher](#executor) | ?   | ✔   | ×   | ✔   |
+| [Raycast](#raycast)         | ?   | ✔   | ×   | ×   |  
 
 ### Features
 
@@ -130,3 +131,8 @@ http://executor.dk
 Windows, Free
 
 https://github.com/microsoft/PowerToys
+
+## Raycast
+Mac, Free, with paid "Pro" and "Team" options
+
+https://www.raycast.com/
